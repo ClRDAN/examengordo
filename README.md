@@ -1,2 +1,2 @@
-ksaitor: servidor kerberos
+ksaitor: servidor kerberos  
 kcaitor: cliente kerberos
